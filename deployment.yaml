@@ -39,7 +39,7 @@ spec:
                 values:
                 - "true"
       containers:
-      - image: mohamadalsalty/my-image-name:1718320475
+      - image: mohamadalsalty/my-image-name:1718320589
         name: httpd
         resources:
           requests:
